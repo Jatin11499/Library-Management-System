@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Library Management System</label>
+	</settings>
+	<users>
+		<user>
+			<path>Library Management System.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Library Management System.jcp</path>
+		</project>
+	</projects>
+</workspace>
